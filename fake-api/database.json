@@ -1,0 +1,285 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Admin",
+      "email": "admin@mail.com",
+      "password": "1234",
+      "role": "admin",
+      "cart": [
+        {
+          "image": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/767/0676723_PE718793_S4.jpg",
+          "nama": "KLABB",
+          "kategori": "Lemari",
+          "type": "",
+          "harga": 499000,
+          "qty": 2,
+          "total": 998000
+        },
+        {
+          "image": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/713/0771305_PE755686_S3.jpg",
+          "nama": "LIDKULLEN",
+          "kategori": "Kursi Kantor",
+          "type": "",
+          "harga": 1499000,
+          "qty": 5,
+          "total": 7495000
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "username": "Afi",
+      "email": "afi@mail.com",
+      "password": "1234",
+      "role": "user",
+      "cart": [
+        {
+          "image": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/987/0898789_PE782653_S3.jpg",
+          "nama": "HAUGA",
+          "kategori": "Lemari",
+          "type": "",
+          "harga": 2999000,
+          "qty": 2,
+          "total": 5998000
+        }
+      ]
+    },
+    {
+      "username": "afi",
+      "email": "ssafina@gmail",
+      "password": "9999",
+      "role": "user",
+      "cart": [],
+      "id": 3
+    },
+    {
+      "username": "Ola",
+      "email": "ola@mail.com",
+      "password": "9999",
+      "role": "user",
+      "cart": [],
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "image": [
+        "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/713/0771305_PE755686_S3.jpg",
+        "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/984/0798453_PE767225_S3.jpg",
+        "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/984/0798454_PE767226_S3.jpg"
+      ],
+      "nama": "LIDKULLEN",
+      "deskripsi": "Penyangga berdiri/duduk aktif, Gunnared krem",
+      "brand": "IKEA",
+      "kategori": "Kursi Kantor",
+      "stok": [
+        {
+          "id": null,
+          "type": "W",
+          "qty": 11
+        },
+        {
+          "id": null,
+          "type": "B",
+          "qty": 22
+        }
+      ],
+      "harga": 1499000,
+      "id": 8
+    },
+    {
+      "image": [
+        "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/987/0898789_PE782653_S3.jpg",
+        "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/438/0943808_PE797052_S3.jpg",
+        "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/481/0948163_PE798890_S3.jpg"
+      ],
+      "nama": "HAUGA",
+      "deskripsi": "Lemari pakaian terbuka dg 3 laci, putih",
+      "brand": "IKEA",
+      "kategori": "Lemari",
+      "stok": [
+        {
+          "id": null,
+          "type": "W",
+          "qty": 8
+        },
+        {
+          "id": null,
+          "type": "B",
+          "qty": 11
+        }
+      ],
+      "harga": 2999000,
+      "id": 9
+    },
+    {
+      "image": [
+        "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/767/0676723_PE718793_S4.jpg",
+        "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/791/0879111_PE721447_S4.jpg",
+        "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/935/0793566_PH141033_S4.jpg"
+      ],
+      "nama": "KLABB",
+      "deskripsi": "Lampu meja, putih pudar/dilapisi nikel",
+      "brand": "IKEA",
+      "kategori": "Lemari",
+      "stok": [
+        {
+          "id": null,
+          "type": "W",
+          "qty": 22
+        },
+        {
+          "id": null,
+          "type": "GB",
+          "qty": 12
+        }
+      ],
+      "harga": 499000,
+      "id": 10
+    },
+    {
+      "image": [
+        "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/673/0767328_PE754067_S3.jpg",
+        "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/355/0835509_PE641238_S3.jpg",
+        "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/331/0733194_PE738887_S3.jpg"
+      ],
+      "nama": "NYHAMN",
+      "deskripsi": "NYHAMN, sofa tmpt tdr dg tiga bantal kursi, dengan kasur busa/Knisa abu-abu/krem",
+      "brand": "IKEA",
+      "kategori": "Sofa",
+      "stok": [
+        {
+          "id": null,
+          "type": "B",
+          "qty": 21
+        },
+        {
+          "id": null,
+          "type": "Y",
+          "qty": 12
+        }
+      ],
+      "harga": 4795000,
+      "id": 11
+    },
+    {
+      "image": [
+        "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/075/0807590_PE770449_S3.jpg",
+        "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/747/0874759_PE613455_S3.jpg"
+      ],
+      "nama": "TROFAST",
+      "deskripsi": "TROFAST, kombinasi penyimpanan, putih/toska, 99x44x95 cm",
+      "brand": "IKEA",
+      "kategori": "Lemari",
+      "stok": [
+        {
+          "id": null,
+          "type": "W",
+          "qty": 11
+        },
+        {
+          "id": null,
+          "type": "Br",
+          "qty": 12
+        }
+      ],
+      "harga": 1135000,
+      "id": 12
+    },
+    {
+      "image": [
+        "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/093/0609329_PE684454_S3.jpg",
+        "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/807/0880709_PE614460_S3.jpg"
+      ],
+      "nama": "ARSTID",
+      "deskripsi": "ÅRSTID, lampu meja, kuningan/putih",
+      "brand": "IKEA",
+      "kategori": "Lampu Meja",
+      "stok": [
+        {
+          "id": null,
+          "type": "W",
+          "qty": 12
+        },
+        {
+          "id": null,
+          "type": "G",
+          "qty": 12
+        }
+      ],
+      "harga": 299000,
+      "id": 13
+    },
+    {
+      "image": [
+        "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/429/0642960_PE701571_S3.jpg",
+        "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/469/0746960_PH160037_S3.jpg",
+        "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/875/0787594_PE763313_S3.jpg"
+      ],
+      "nama": "HEMNES",
+      "deskripsi": "HEMNES, lemari pakaian terbuka, diwarnai putih, 120x50x197 cm",
+      "brand": "IKEA",
+      "kategori": "Lemari",
+      "stok": [
+        {
+          "id": null,
+          "type": "W",
+          "qty": 21
+        },
+        {
+          "id": null,
+          "type": "B",
+          "qty": 11
+        }
+      ],
+      "harga": 3999000,
+      "id": 14
+    },
+    {
+      "image": [
+        "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/298/0729829_PE737182_S3.jpg",
+        "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/260/0826032_PE690940_S4.jpg",
+        "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/260/0826015_PE691182_S4.jpg"
+      ],
+      "nama": "VALLENTUNA",
+      "deskripsi": "VALLENTUNA, sofa 2 dudukan dg sofa tmpt tdr, dan penyimpanan/Murum putih",
+      "brand": "IKEA",
+      "kategori": "Sofa",
+      "stok": [
+        {
+          "id": null,
+          "type": "W",
+          "qty": 22
+        },
+        {
+          "id": null,
+          "type": "B",
+          "qty": 11
+        }
+      ],
+      "harga": 22500000,
+      "id": 15
+    }
+  ],
+  "userTransactions": [
+    {
+      "id": 2,
+      "username": "Afi",
+      "totalPayment": 5998000,
+      "dateCO": "2021/4/12",
+      "cart": [
+        {
+          "image": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/987/0898789_PE782653_S3.jpg",
+          "nama": "HAUGA",
+          "kategori": "Lemari",
+          "type": "",
+          "harga": 2999000,
+          "qty": 2,
+          "total": 5998000
+        }
+      ],
+      "status": "UNPAID"
+    }
+  ]
+}
